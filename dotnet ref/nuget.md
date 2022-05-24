@@ -29,9 +29,13 @@
    then   
 
    1.  right click the project to [package]
-   2.  go to the directory [program->src->main project->bin->release] and you will see xxxx.nupkg there
+   2.  go to the directory [program->src->main project->bin->release] and you will see xxxx.nupkg there   
 
-2.  nupkg upload
+
+
+2.  nupkg upload  
+
+
 
    1.  open [cmd] in the [release] directory and upload the xxxx.nupkg
 
