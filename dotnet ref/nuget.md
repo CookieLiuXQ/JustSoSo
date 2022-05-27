@@ -1,4 +1,4 @@
-#### 	 dotnet ref
+#### 	 dotnet ref https://docs.microsoft.com/zh-cn/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore-cli
 
 ##### 	nuget
 
